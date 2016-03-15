@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "decline.h"
+#include "def.h"
 #define n 100
 
 int main()
