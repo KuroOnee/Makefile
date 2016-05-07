@@ -9,7 +9,7 @@ void input(char str[n]);
 void check(char str[n],char str2[n],int* a,int* b);
 #endif
 #ifndef process
-void process (char str1[n]);
+void process(char str1[n]);
 #endif
 #ifndef output
 int output(int s,int x,char str[n],char str1[n]);
@@ -27,11 +27,11 @@ int sequal(char s1[n], char t[n]);
 int slen(char s[n]);
 #endif
 #ifndef sspn
-int sspn (char str[n],int k);
+int sspn(char str[n],int k);
 #endif
 #ifndef scut
 void scut(char s2[n],char s[n],char cut);
 #endif
 #ifndef scopy
-void scopy (char s1[n],char s2[n]);
+void scopy(char s1[n],char s2[n]);
 #endif
