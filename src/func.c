@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include "def.h"
-#define n 100
 
 void input(char str[n])
 {
